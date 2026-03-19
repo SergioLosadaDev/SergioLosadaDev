@@ -8,8 +8,8 @@ CODE_ORGANIZATION: code-corhuila
 
 # 👋 Hi, I'm Sergio Losada
 
-🎓 Software Engineering Student
-☕ Backend Developer focused on Java ecosystem
+🎓 Software Engineering Student <br>
+☕ Backend Developer focused on Java ecosystem <br>
 🚀 Passionate about building scalable and clean architectures
 
 ---
